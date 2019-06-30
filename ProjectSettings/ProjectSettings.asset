@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 16
-  productGUID: 00000000000000000000000000000000
+  productGUID: fecc0339c34c64342a58ec8735c6c362
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -536,11 +536,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: 2018-3d-beginner
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: E:\Dev\Unity\Unity3DTutorial\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00734bd2824bd601
   metroApplicationDescription: 2018-3d-beginner
   wsaImages: {}
   metroTileShortName: 
